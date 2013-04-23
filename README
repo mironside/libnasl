@@ -1,0 +1,10 @@
+NewAge Shader Language Library
+Christopher Olsen
+------------------------------
+
+Installation:
+just run make install as root
+
+Usage:
+once installed you should just be able to link against nasl
+
